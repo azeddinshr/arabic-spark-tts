@@ -211,7 +211,7 @@ Apache 2.0 (same as base model)
 
 ---
 
-## 🙏 Acknowledgments
+## 👍🏻 Acknowledgments
 
 - **SparkAudio Team** - Base Spark-TTS model
 - **MBZUAI** - ClArTTS dataset
